@@ -158,6 +158,11 @@ database: rawdata02
 
 ```
 
+<img width="1007" height="1822" alt="development_process" src="https://github.com/user-attachments/assets/4b0b7351-9fed-493d-8d91-31967c124c27" />
+
+<img width="909" height="1191" alt="workflow" src="https://github.com/user-attachments/assets/e1ab20e3-2723-417c-8d2c-d1d500dbe54c" />
+
+<img width="1231" height="1857" alt="end to end process" src="https://github.com/user-attachments/assets/34a92a2e-71f2-4127-ad96-755075acffec" />
 
 
 
