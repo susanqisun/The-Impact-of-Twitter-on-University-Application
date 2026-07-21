@@ -1,0 +1,16 @@
+#Author: Qi Sun
+# for Macmkdir lambda_package_1
+cd ~/lambda_package_1
+python -m \virtualenv .
+ls
+source ./bin/activate
+pip install pymysql
+
+cd ~/lambda_package_1/lib/python3.7/site-packages
+
+ls#add app.py and res_config.py to the directory
+
+#zip the directory
+zip -r9 ${OLDPWD}/app.zip .
+
+deactivate
